@@ -1,4 +1,5 @@
-![banner](mission.png)
+![banner](mission1.png)
+
 # Python-Web-Scrapping-Project - Mission to Mars
 This project utilizing two set of Python tools/libraries - Beautiful Soup and Splinter to comb through web pages for data. Then using Flask web framework/server to generate a new page that contains mars facts, data, and weather inforamtion.
 
@@ -15,7 +16,10 @@ This project utilizing two set of Python tools/libraries - Beautiful Soup and Sp
 1. MongoDB is currently hosted locally at port 12701
 2. Two python files were generated - app.py and scrape_mars.py
 
+
+
 #### Here is the screenshot of the page generated:
+
 ![screenshot](screenshot.jpg)
 
 
